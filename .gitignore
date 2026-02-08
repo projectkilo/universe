@@ -1,0 +1,21 @@
+# Secrets and credentials
+.env
+.env.*
+secrets/
+*.key
+*.pem
+*.pfx
+
+# SSH keys
+id_*
+*.pub
+
+# Obsidian junk
+.obsidian/cache/
+.obsidian/workspace/
+.obsidian/plugins
+.obsidian
+
+# OS junk
+.DS_Store
+Thumbs.db
