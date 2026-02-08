@@ -14,7 +14,7 @@ id_*
 .obsidian/cache/
 .obsidian/workspace/
 .obsidian/plugins
-.obsidian
+.obsidian/**
 
 # OS junk
 .DS_Store
