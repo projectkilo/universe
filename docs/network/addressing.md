@@ -36,12 +36,12 @@ Example structure:
 
 | Segment        | VLAN | Subnet             | Purpose                          |
 |----------------|------|--------------------|----------------------------------|
-| Management     | 10   | 172.16.10.0/24     | Network & host management        |
-| Servers        | 20   | 172.16.20.0/24     | VMs, containers, infrastructure |
-| IoT            | 30   | 172.16.30.0/24     | Untrusted devices                |
+| Management     | 10   | 172.16.10.0/28     | Network & host management        |
+| Servers        | 20   | 172.16.20.0/27     | VMs, containers, infrastructure  |
+| IoT            | 30   | 172.16.30.0/27     | Untrusted devices                |
 | Wi-Fi Clients  | 40   | 172.16.40.0/24     | Trusted wireless clients         |
-| Office / Users | 50   | 172.16.50.0/24     | Wired user devices               |
-| Guest          | 60   | 172.16.60.0/24     | Guest access                     |
+| Office         | 50   | 172.16.50.0/29     | Separate interface for AERO      |
+| Wireguard      | 60   | 172.16.60.0/29     | Wireguard VPN                    |
 
 > Subnets shown are representative and may evolve over time.
 
