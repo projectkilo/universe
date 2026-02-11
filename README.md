@@ -9,9 +9,7 @@ This repo and documents there-in are meant to grow with me as long as I decide t
 If you're a rookie like me, let's learn together. If you're more experienced, I'd love some feedback. 
 
 ### Main goal:
-``` text
 	Replace paid subscription services with self-hosted free and open-source alternatives where practical.
-```
 
 ### Secondary goals: 
 	- Learn network engineering and system admin concepts and technologies: 
@@ -29,23 +27,26 @@ If you're a rookie like me, let's learn together. If you're more experienced, I'
 
 ### Structure 
 
-**ISP:** Telus Home Internet (FTTH)
+**ISP:** 
+Telus Home Internet (FTTH)
 
-**Main router:** Mikrotik hEX 
+**Main router:** 
+Mikrotik hEX 
 	- RouterOS 
 	- DHCP server, DNS, NTP server, VLAN support, VPN 
 	- WiFi via ISP AP
 
-**Secondary router:** Cisco Linksys EA4500
+**Secondary router:** 
+Cisco Linksys EA4500
 	- OpenWRT-based
 	- IoT 
 	- VoIP 
 	- WiFi VLAN (planned)
 
 **Servers:** 
-	- Synology DS220+
+	Synology DS220+
 		- NAS 
-	- Proxmox VE (planned)
+	Proxmox VE (planned)
 		- LXC  
 		- VM  
 
