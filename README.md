@@ -8,83 +8,85 @@ This repo and documents there-in are meant to grow with me as long as I decide t
 
 If you're a rookie like me, let's learn together. If you're more experienced, I'd love some feedback. 
 
-### Main goals:
+### Main goal:
+``` text
 	Replace paid subscription services with self-hosted free and open-source alternatives where practical.
+```
 
 ### Secondary goals: 
-	-Learn network engineering and system admin concepts and technologies: 
-		-IPTV 
-		-RouterOS (MikroTik) 
-		-OpenWRT 
-		-VLAN design and segmentation 
-		-VoIP 
-	-Learn server and infrastructure management: 
-		-Cloud / Network Attached Storage 
-		-Containerization (Docker) 
-		-Virtualization (Proxmox) 
+	- Learn network engineering and system admin concepts and technologies: 
+		- IPTV 
+		- RouterOS (MikroTik) 
+		- OpenWRT 
+		- VLAN design and segmentation 
+		- VoIP 
+	- Learn server and infrastructure management: 
+		- Cloud / Network Attached Storage 
+		- Containerization (Docker) 
+		- Virtualization (Proxmox) 
 
 ---
+
 ### Structure 
 
 **ISP:** Telus Home Internet (FTTH)
 
-**Main router:** Mikrotik hEX RB750Gr3
-	-RouterOS 
-	-DHCP server, DNS, NTP server, VLAN support, VPN 
-	-WiFi via ISP AP
+**Main router:** Mikrotik hEX 
+	- RouterOS 
+	- DHCP server, DNS, NTP server, VLAN support, VPN 
+	- WiFi via ISP AP
 
 **Secondary router:** Cisco Linksys EA4500
-	-OpenWRT-based
-	-IoT 
-	-VoIP 
-	-WiFi VLAN (planned)
+	- OpenWRT-based
+	- IoT 
+	- VoIP 
+	- WiFi VLAN (planned)
 
 **Servers:** 
-	-Synology DS220+
-		-NAS 
-	-Proxmox VE (planned)
-		-LXC containers 
-		-VM  
+	- Synology DS220+
+		- NAS 
+	- Proxmox VE (planned)
+		- LXC  
+		- VM  
 
 **Services:**
-	-Jellyfin
-	-Pi-hole (planned) 
-	-Home Assistant (planned) 
+	- Jellyfin
+	- Pi-hole (planned) 
+	- Home Assistant (planned) 
 
 **Software (FOSS):** 
-	-2FAS 
-	-Bitwarden 
-	-Chrono (Android) 
-	-Libby 
-	-Money Manager 
-	-Notesnook 
-	-Obsidian 
-	-Openlib (Android, experimental) 
-	-OsmAnd 
-	-Signal 
-	-Termux 
+	- 2FAS 
+	- Bitwarden 
+	- Chrono (Android) 
+	- Libby (Android) 
+	- Money Manager (Android) 
+	- Notesnook 
+	- Obsidian 
+	- Openlib (Android, experimental) 
+	- OsmAnd 
+	- Signal 
+	- Termux 
 
 **Subscriptions (free):**
-	-Audible 
-	-DuckDNS
-	-Garmin 
-	-GitHub 
-	-Google 
-	-Ground News 
-	-Outlook
-	-Stats.fm (Spotify)
+	- Audible 
+	- DuckDNS
+	- Garmin 
+	- GitHub 
+	- Google 
+	- Ground News 
+	- Outlook
+	- Stats.fm (Spotify)
 
 **Subscriptions (paid):**
-	-Alpha Progression 
-	-Amazon Prime 
-	-Disney+ 
-	-IPTV 
-	-Netflix 
-	-Ooma 
-	-Proton Unlimited 
-	-Spotify 
-	-Strava
-	-Wyze
+	- Amazon Prime 
+	- Disney+ 
+	- IPTV 
+	- Netflix 
+	- Ooma 
+	- Proton Unlimited 
+	- Spotify 
+	- Strava
+	- Wyze
 
 
 
