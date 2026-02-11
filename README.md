@@ -29,21 +29,15 @@ Replace paid subscription services with self-hosted free and open-source alterna
 
 ## Structure 
 
-### ISP: 
+### ISP: Telus Home Internet (FTTH)
 
-Telus Home Internet (FTTH)
-
-### Main router: 
-
-#### Mikrotik hEX 
+### Main router: Mikrotik hEX 
 
 - RouterOS 
 - DHCP, DNS, NTP, VLAN support, VPN 
 - WiFi via ISP AP
 
-### Secondary router: 
-
-#### Cisco Linksys EA4500
+### Secondary router: Cisco Linksys EA4500
 
 - OpenWRT-based
 - IoT 
@@ -54,12 +48,12 @@ Telus Home Internet (FTTH)
 
 #### Synology DS220+
 
-	- NAS 
+- NAS 
 
 #### Proxmox VE (planned)
 
-	- LXC  
-	- VM  
+- LXC  
+- VM  
 
 ### Services: 
 
