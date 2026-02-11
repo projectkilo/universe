@@ -39,10 +39,10 @@ Replace paid subscription services with self-hosted free and open-source alterna
 
 ### Secondary router: Cisco Linksys EA4500
 
-- OpenWRT-based
-- IoT 
-- VoIP 
-- WiFi VLAN (planned)
+- [x] OpenWRT 
+- [ ] IoT 
+- [ ] VoIP 
+- [ ] WiFi 
 
 ### Servers: 
 
@@ -50,16 +50,17 @@ Replace paid subscription services with self-hosted free and open-source alterna
 
 - NAS 
 
-#### Proxmox VE (planned)
+#### Proxmox VE 
 
 - LXC  
 - VM  
 
 ### Services: 
 
-- Jellyfin
-- Pi-hole (planned) 
-- Home Assistant (planned) 
+- [ ] Immich 
+- [x] Jellyfin
+- [ ] Pi-hole 
+- [ ] Home Assistant 
 
 ### Software (FOSS): 
 
