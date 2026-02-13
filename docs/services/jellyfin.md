@@ -24,7 +24,7 @@ on the NAS within a containerized environment.
 ## Service Details
 
 - **Port Mapping:** Exposed to VLANs as needed; internal container ports only accessible via Docker networking  
-- **Reverse Proxy:** https://jellyfin.projectkilo.home.arpa
+- **Reverse Proxy:** https://jellyfin.example.com
 - **Authentication:** Handled by Jellyfin user accounts; no external passwords are stored in Git  
 - **Backups:** Database and config snapshots are stored offline or in private storage
 
