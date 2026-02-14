@@ -59,8 +59,8 @@ Replace paid subscription services with self-hosted free and open-source alterna
 
 - [ ] Immich 
 - [x] Jellyfin
-- [ ] Pi-hole 
-- [ ] Home Assistant 
+- [x] Pi-hole 
+- [x] Home Assistant 
 
 ### Software (FOSS): 
 
