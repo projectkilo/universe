@@ -58,7 +58,7 @@ Replace paid subscription services with self-hosted free and open-source alterna
 ### Services: 
 
 - [ ] Immich 
-- [x] Jellyfin
+- [x] Jellyfin 
 - [x] Pi-hole 
 - [x] Home Assistant 
 
