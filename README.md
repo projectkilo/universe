@@ -57,12 +57,16 @@ Replace paid subscription services with self-hosted free and open-source alterna
 
 ### Services: 
 
-- [x] Adguard Home
-- [x] Caddy 
-- [x] Home Assistant
-- [ ] Immich 
-- [x] Jellyfin 
-- [x] Pi-hole 
+✅ Adguard Home
+✅ Caddy 
+✅ Docker 
+	☑️ Jellyfin 
+	☑️ Minecraft 
+✅ Home Assistant
+☑️ Immich 
+✅ Jellyfin 
+✅ Pi-hole
+✅ Traefik 
 
 ### Software (FOSS): 
 
